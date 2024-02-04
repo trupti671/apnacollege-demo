@@ -1,3 +1,4 @@
 # apnacollege-demo
-This is my Git Repo
-Author:Trupti Kure
+This is my Git Repo.
+<br>
+Author-Trupti Kure
