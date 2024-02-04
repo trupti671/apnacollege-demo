@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my Git Repo.
 <br>
-Author-Trupti Kure
+Author-Trupti (college)
